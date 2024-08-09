@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/imageMappings.js", "app/index.js", "app/whiteroom.js", "app/_layout.js"  ]
 }

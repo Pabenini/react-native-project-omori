@@ -1,0 +1,29 @@
+{
+    "listProduct": [
+        {
+            "id": 1,
+            "title": "Caderno",
+            "image": "objeto-1"
+        },
+        {
+            "id": 2,
+            "title": "Lampada",
+            "image": "objeto-2"
+        },
+        {
+            "id": 3,
+            "title": "Lenços",
+            "image": "objeto-3"
+        },
+        {
+            "id": 4,
+            "title": "Notebook",
+            "image": "objeto-4"
+        },
+        {
+            "id": 5,
+            "title": "Porta",
+            "image": "objeto-5"
+        }
+    ]
+}
