@@ -16,8 +16,10 @@ export default function RootLayout() {
       }}
     >
       <Stack.Screen name="index" options={{ title: ""}} />
-      <Stack.Screen name="whiteroom" options={{ title: "whiteroom"}} />
+      <Stack.Screen name="whiteroom" options={{ title: "Whiteroom"}} />
+      <Stack.Screen name="about" options={{ title: "About"}} />
       <Stack.Screen name="singlePag/[id]" options={{ title: "" }} />
+      <Stack.Screen name="albummm" options={{ title: "Album" }} />
     </Stack>
   );
 }

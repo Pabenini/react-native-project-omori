@@ -9,6 +9,11 @@ const book = {
     "book-8": require('../assets/images/whiteroom/book/page-8.webp'),
     "book-9": require('../assets/images/whiteroom/book/page-9.webp'),
     "book-10": require('../assets/images/whiteroom/book/page-10.webp'),
+    "lencoy": require('../assets/images/whiteroom/WS_Tissuebox_29.webp'),
+    "lamp1": require('../assets/images/whiteroom/lamp/Lightbulb.webp'),
+    "dor": require('../assets/images/whiteroom/door/Wsdoor.webp'),
+    "pc-1": require('../assets/images/whiteroom/notebook/tela1.webp'),
+    "pc-2": require('../assets/images/whiteroom/notebook/tela2.webp'),
 };
 
 export default book;
