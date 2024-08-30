@@ -72,7 +72,7 @@ const styles = StyleSheet.create({
         // position: 'relative', // Permite o posicionamento absoluto do botão
     },
     itemLink: {
-        backgroundColor: '#260F0D', // Cor de fundo do botão
+        backgroundColor: '#000', // Cor de fundo do botão
         paddingVertical: 15, // Espaçamento vertical do botão
         paddingHorizontal: 20, // Espaçamento horizontal do botão
         marginTop: 10, // Espaço entre o item e o botão
