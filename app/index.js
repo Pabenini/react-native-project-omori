@@ -47,13 +47,16 @@ const styles = StyleSheet.create({
     right: 0,
     margin: 20,
     backgroundColor: '#0D0D0D',
+    borderWidth: 2,
+    borderColor: '#F2F2F2',
     alignItems: 'center',
     justifyContent: 'center',
-    paddingVertical: 15,
+    paddingVertical: 10,
   },
   buttonText: {
-    fontSize: 20,
-    color: '#F2F2F2',
+    fontSize: 26, // Tamanho da fonte diferente
+    color: '#F2F2F2', // Cor da fonte
     fontWeight: 'bold',
+    fontFamily: 'ComingSoon-Regular',
   },
 });
