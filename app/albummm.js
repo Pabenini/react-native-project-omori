@@ -155,7 +155,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text2}>
-                        MARI is teaching everyone how to make flower crowns! OMORI and KEL are holding MARI's example. So pretty...
+                        .- -- --- -. --. ..- ... -.- -.- -.-
                     </Text>
                 </View>
             </View>
@@ -283,11 +283,13 @@ const styles = StyleSheet.create({
         fontSize: 16,
         lineHeight: 24,
         textAlign: "left",
+        fontFamily: 'ComingSoon-Regular',
     },
     text2: {
         fontSize: 16,
         lineHeight: 24,
         textAlign: "right",
+        fontFamily: 'ComingSoon-Regular',
     },
 });
 

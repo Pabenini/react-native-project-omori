@@ -62,5 +62,6 @@ const styles = StyleSheet.create({
         fontSize: 20,
         color: '#F2F2F2',
         fontWeight: 'bold',
+        fontFamily: 'ComingSoon-Regular',
       },
 });

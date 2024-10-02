@@ -1,5 +1,14 @@
 {
   "expo": {
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "fonts": [
+      {
+        "name": "ComingSoon-Regular",
+        "uri": "./assets/fonts/ComingSoon-Regular.ttf"
+      }
+    ],
     "name": "app-project",
     "slug": "app-project",
     "version": "1.0.0",
@@ -29,10 +38,7 @@
     },
     "plugins": [
       "expo-router",
-      "expo-font",
-      {
-        "fonts": "./assets/fonts/ComingSoon-Regular.ttf"
-      }
+      "expo-font"
     ],
     "experiments": {
       "typedRoutes": true

@@ -85,18 +85,21 @@ const styles = StyleSheet.create({
         fontSize: 18,
         fontWeight: 'bold',
         color: '#fff',
+        fontFamily: 'ComingSoon-Regular',
     },
     titleProduct2: {
         fontSize: 18,
         fontWeight: 'bold',
         color: '#fff',
-        textAlign: 'center'
+        textAlign: 'center',
+        fontFamily: 'ComingSoon-Regular',
     },
     description: {
         marginTop: 5,
         fontSize: 18,
         lineHeight: 18,
         textAlign: 'left',
+        fontFamily: 'ComingSoon-Regular',
     },
     itemLink: {
         backgroundColor: '#000', // Cor de fundo do botão
@@ -112,6 +115,7 @@ const styles = StyleSheet.create({
         color: '#fff',
         fontWeight: 'bold',
         fontSize: 18,
+        fontFamily: 'ComingSoon-Regular',
     },
     backgroundOne: {
         flex: 1, // Ocupa todo o espaço disponível

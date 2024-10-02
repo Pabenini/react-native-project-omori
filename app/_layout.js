@@ -1,6 +1,16 @@
 import { Stack } from "expo-router";
+import { useFonts } from "expo-font";
+import AppLoading from "expo-app-loading";
 
 export default function RootLayout() {
+  let [fontsLoaded] = useFonts({
+    'ComingSoon-Regular': require('../assets/fonts/ComingSoon-Regular.ttf'),
+  });
+
+  if (!fontsLoaded) {
+    return <AppLoading />;
+  }
+
   return (
     <Stack
       screenOptions={{
@@ -11,6 +21,7 @@ export default function RootLayout() {
         headerTintColor: "#000",
         headerTitleStyle: {
           fontWeight: "bold",
+          fontFamily:  "ComingSoon-Regular",
         },
         headerTitleAlign: "center",
       }}

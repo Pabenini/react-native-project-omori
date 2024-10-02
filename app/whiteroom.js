@@ -85,7 +85,7 @@ const styles = StyleSheet.create({
         color: '#fff',
         fontWeight: 'bold',
         fontSize: 16,
-        
+        fontFamily: 'ComingSoon-Regular',
     },
     image: {
         width: 90,
@@ -99,12 +99,14 @@ const styles = StyleSheet.create({
     titleProduct: {
         fontSize: 18,
         fontWeight: 'bold',
+        fontFamily: 'ComingSoon-Regular',
     },
     description: {
         marginTop: 5,
         fontSize: 14,
         lineHeight: 18,
         textAlign: 'left',
+        fontFamily: 'ComingSoon-Regular',
     },
     
 });
