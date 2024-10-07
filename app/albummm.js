@@ -12,7 +12,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text1}>
-                        MARI is teaching everyone how to make flower crowns! OMORI and KEL are holding MARI's example. So pretty...
+                    MARI está ensinando a todos como fazer tiara de flores! OMORI e KEL estão segurando o exemplo de MARI. Tão bonito...
                     </Text>
                 </View>
             </View>
@@ -25,7 +25,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text2}>
-                    OMORI and KEL gave up and ran off, but AUBREY and I got the hang of it really fast!
+                    OMORI e KEL desistiram, mas AUBREY e eu pegamos o jeito muito rápido!
                     </Text>
                 </View>
             </View>
@@ -38,7 +38,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text1}>
-                        HERO's still making his flower crown. It's taking him a little while, but he's getting it. You have to admire his persistence.
+                    HERO ainda está fazendo sua tiara de flores. Está demorando um pouco, mas ele está pegando o jeito. Temos que admirar sua persistência.
                     </Text>
                 </View>
             </View>
@@ -51,7 +51,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text2}>
-                        Everyone's eating watermelons. So juicy! AUBREY has some seeds on her face. Maybe someone should tell her.
+                    Todo mundo está comendo melancia. Tão suculenta! AUBREY tem algumas sementes no rosto. Talvez alguém devesse contar a ela.
                     </Text>
                 </View>
             </View>
@@ -64,7 +64,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text1}>
-                        KEL drinking a bottle of MILK, his favorite! I shouldn't get too close or he might get my camera wet.
+                    KEL bebendo uma garrafa de LEITE, seu favorito! Eu não deveria chegar muito perto ou ele pode molhar minha câmera.
                     </Text>
                 </View>
             </View>
@@ -77,7 +77,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text2}>
-                        MARI had HERO take a picture of us. Everyone thinks a flower crown really suits me.
+                    MARI pediu pro HERO tirar uma foto nossa. Todo mundo acha que uma tiara de flores realmente combina comigo.
                     </Text>
                 </View>
             </View>
@@ -90,7 +90,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text1}>
-                        HERO leaning in for a smooch! KEL looks so annoyed. Ah, brotherly love...
+                    HERO se inclinando para um beijo! KEL parece tão irritado. Ah, amor entre irmãos...
                     </Text>
                 </View>
             </View>
@@ -103,7 +103,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text2}>
-                        We're having a picnic today! MARI wanted to take a picture of everyone. Say cheese!
+                    Vamos fazer um piquenique hoje! MARI queria tirar uma foto de todo mundo. Digam xis!
                     </Text>
                 </View>
             </View>
@@ -116,7 +116,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text1}>
-                        After eating, everyone fell asleep, except HERO and MARI. I'm getting kind of sleepy myself.
+                    Depois de comer, todos dormiram, exceto HERO e MARI. Eu também estou ficando meio sonolento.
                     </Text>
                 </View>
             </View>
@@ -129,7 +129,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text2}>
-                        KEL said he took a picture of himself on accident, but I don't believe him....
+                    KEL disse que tirou uma foto de si mesmo por acidente, mas eu não acredito nele...
                     </Text>
                 </View>
             </View>
@@ -142,7 +142,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text1}>
-                        All of our feet in a circle! Can you guess whose feet are whose?
+                    Todos os nossos pés em um círculo! Você consegue adivinhar quais pés são de quem?
                     </Text>
                 </View>
             </View>
@@ -168,7 +168,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text1}>
-                        Everyone helped me water my plants today! I tend to ramble on for too long when I start talking about plants, so I'm glad my friends listened to me!
+                    Todo mundo me ajudou a regar minhas plantas hoje! Costumo divagar por muito tempo quando começo a falar sobre plantas, então estou feliz que meus amigos me ouviram!
                     </Text>
                 </View>
             </View>
@@ -181,7 +181,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text2}>
-                        We found an old couch in the JUNKYARD! There was only enough space on the couch for four people, but I don't mind. I have the best view in the entire world!
+                    Encontramos um sofá velho no FERRO-VELHO! Só havia espaço suficiente no sofá para quatro pessoas, mas não me importo. Tenho a melhor vista do mundo inteiro!
                     </Text>
                 </View>
             </View>
@@ -194,7 +194,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text1}>
-                        A spider suddenly fell from a tree and surprised everyone! HERO is too AFRAID to look.
+                    Uma aranha caiu de repente de uma árvore e surpreendeu a todos! O HERÓI está COM MEDO demais para olhar.
                     </Text>
                 </View>
             </View>
@@ -207,7 +207,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text2}>
-                        Oh, boy! Oh, boy! We were able to score five tickets to "SWEETHEART'S QUEST FOR HEARTS"! I sure hope nothing unexpected happens...
+                    Nossa! Nossa! Conseguimos cinco ingressos para "SWEETHEART EM BUSCA DE CORAÇÕES"! Espero que nada inesperado aconteça...
                     </Text>
                 </View>
             </View>
@@ -220,7 +220,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text1}>
-                        We're at the LAST RESORT! KEL keeps losing at slots. He should really learn when to stop.
+                    Estamos no ÚLTIMO RESORT! KEL continua perdendo nos caça níquel. Ele realmente deveria aprender quando parar.
                     </Text>
                 </View>
             </View>
@@ -233,7 +233,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text2}>
-                        We stopped by the MUSTARD SUB for some grub! COMBO MEALS for everyone!!
+                    Paramos no MUSTARD SUB para comer alguma coisa! REFEIÇÃO COMBO para todos!!
                     </Text>
                 </View>
             </View>
@@ -246,7 +246,7 @@ export default function Flex() {
                 </View>
                 <View style={styles.textContainer}>
                     <Text style={styles.text1}>
-                    My best friends... KEL, AUBREY, HERO, and OMORI! I'll cherish them all forever.
+                    Meus melhores amigos... KEL, AUBREY, HERO e OMORI! Vou valoriza-los para sempre.
                     </Text>
                 </View>
             </View>

@@ -6,11 +6,13 @@
         },
         {
             "id": 2,
-            "image": ["lamp1"]
+            "image": ["lamp1"],
+            "text":  "Está escuro como breu lá dentro. Você não consegue ver nada"
         },
         {
             "id": 3,
-            "image": ["lencoy"]
+            "image": ["lencoy"],
+            "text":  "Uma caixa de lenços para enxugar suas tristezas"
         },
         {
             "id": 4,
@@ -18,7 +20,8 @@
         },
         {
             "id": 5,
-            "image": ["dor"]
+            "image": ["dor"],
+            "text":  "Uma porta branca projeta uma fraca sombra. o que você gostaria de fazer?"
         }
     ]
 }

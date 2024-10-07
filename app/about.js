@@ -28,6 +28,7 @@ export default function About2() {
                 <View style={styles.itemButton}>
                     <View style={styles.itemContainer}>
                         <View style={styles.itemContainerDetails}>
+                            <Image source={require('../assets/images/whiteroom/characters/OMORI_Sprite_run.webp')} style={styles.image2} />
                             <View style={styles.textContainer2}>
                                 <Text style={styles.titleProduct2}>2. Characters</Text>
                             </View>
@@ -75,6 +76,12 @@ const styles = StyleSheet.create({
         height: 100,
         borderRadius: 8,
     },
+    image2: {
+        width: 80,
+        height: 80,
+        marginLeft: 15,
+        borderRadius: 8,
+    },
     textContainer: {
         flex: 1,
         marginLeft: 35, // Ajuste o espaço entre a imagem e o texto
@@ -92,6 +99,7 @@ const styles = StyleSheet.create({
         fontWeight: 'bold',
         color: '#fff',
         textAlign: 'center',
+        marginRight: 10,
         fontFamily: 'ComingSoon-Regular',
     },
     description: {
