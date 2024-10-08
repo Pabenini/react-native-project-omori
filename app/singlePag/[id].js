@@ -55,13 +55,14 @@ const styles = StyleSheet.create({
     },
     text: {
         margin: 10,
-        fontSize: 16,
+        fontSize: 17,
         color: '#F2F2F2',
         backgroundColor: '#0D0D0D',
         alignItems: 'center',
         justifyContent: 'center',
         paddingVertical: 8,
         paddingHorizontal: 15,
+        fontFamily: 'ComingSoon-Regular',
     },
     otherbutton: {
         bottom: 0,

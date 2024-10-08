@@ -41,6 +41,22 @@ export default function About2() {
                         </Link>
                     </View>
                 </View>
+                <View style={styles.itemButton}>
+                    <View style={styles.itemContainer}>
+                        <View style={styles.itemContainerDetails}>
+                            <Image source={require('../assets/images/whiteroom/map/Dream_World.webp')} style={styles.image} />
+                            <View style={styles.textContainer}>
+                                <Text style={styles.titleProduct}>3. Map</Text>
+                            </View>
+                        </View>
+                        <Link
+                            href="/map"
+                            style={styles.itemLink} // Estilo do link para ser um botão
+                        >
+                            <Text style={styles.linkText}>Interagir</Text>
+                        </Link>
+                    </View>
+                </View>
             </ScrollView>
         </ImageBackground>
     );
@@ -99,7 +115,7 @@ const styles = StyleSheet.create({
         fontWeight: 'bold',
         color: '#fff',
         textAlign: 'center',
-        marginRight: 10,
+        marginRight: 30,
         fontFamily: 'ComingSoon-Regular',
     },
     description: {
